@@ -7,6 +7,4 @@
                  [org.clojure/test.check "0.9.0"]
                  [org.clojure/data.csv "0.1.4"]]
   :main sahaj.core
-  :target-path "doc/"
-  :plugins [[lein-codox "0.10.3"]]
   :jvm-opts ^replace [])
